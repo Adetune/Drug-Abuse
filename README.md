@@ -777,7 +777,8 @@ ORDER BY
 
 #### Output
 
-![Most views](assets/images/youtubers_with_the_most_views.png)
+
+![drug_dashboard](assets/images/drug_dashboard.png)
 
 
 
