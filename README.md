@@ -37,12 +37,12 @@ Non-Governmental Organization eager to address a critical issue,the escalating c
 
 - What is the ideal solution? 
 
-A. Data Integration and validation: Establish robust data integration processes to compile and validate diverse datasets related to substance abuse and criminal activities, ensuring data consistency and accuracy. 
-B. Descriptive Analysis: Perform descriptive data analysis to summarize key statistics and metrics related to drug-related crimes. 
-C. Frequencies, location trends, and drug types involved.
-D. Trend Identification: Identify and document temporal trends in drug-related crimes, such as seasonal variations or long-term increases or decreases, using time-series analysis.
-E. Location Analysis: Conduct location-based analysis to pinpoint geographical hotspots of drug-related criminal activities, supporting focused law enforcement efforts.
-F. Data Visualization: Develop clear and intuitive data visualizations, such a chart, graphs, using  Excel to present analytical findings for easy interpretation by stakeholders.
+- Data Integration and validation: Establish robust data integration processes to compile and validate diverse datasets related to substance abuse and criminal activities, ensuring data consistency and accuracy. 
+- Descriptive Analysis: Perform descriptive data analysis to summarize key statistics and metrics related to drug-related crimes. 
+- Frequencies, location trends, and drug types involved.
+- Trend Identification: Identify and document temporal trends in drug-related crimes, such as seasonal variations or long-term increases or decreases, using time-series analysis.
+- Location Analysis: Conduct location-based analysis to pinpoint geographical hotspots of drug-related criminal activities, supporting focused law enforcement efforts.
+- Data Visualization: Develop clear and intuitive data visualizations, such a chart, graphs, using  Excel to present analytical findings for easy interpretation by stakeholders.
 
 This will help the Non-Governmental Organization to the address a critical issues.
 
