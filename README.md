@@ -181,9 +181,6 @@ Below is a table outlining the constraints on our cleaned dataset:
 
 # Visualization
 
-```
-
-#### Output
 
 
 ![drug_dashboard](assets/images/drug_dashboard.png)
