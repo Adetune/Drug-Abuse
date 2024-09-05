@@ -8,7 +8,7 @@
 # This is a Excel project
 Excel will be used for this project, by utilizing its built-in features for data filtering, sorting, and pivot tables to explore trends and relationships within the data. Additionally, Excel's charting capabilities can help visualize patterns and summarize key insights from the dataset.
 
-assets/images/Drug pic.jpg
+
 
 # Table of contents 
 
@@ -32,17 +32,20 @@ assets/images/Drug pic.jpg
 
 - What is the key pain point? 
 
-Non-Governmental Organization eager to address a critical issue,the escalating criminal activities ostensibly linked to substance abuse.
+  Non-Governmental Organization eager to address a critical issue,the escalating criminal activities ostensibly linked to substance abuse.
 
 
 - What is the ideal solution? 
 
-- Data Integration and validation: Establish robust data integration processes to compile and validate diverse datasets related to substance abuse and criminal activities, ensuring data consistency and accuracy. 
+- Data Integration and validation: Establish robust data integration processes to compile and validate diverse datasets related to substance abuse and criminal activities, 
+  ensuring data consistency and accuracy. 
 - Descriptive Analysis: Perform descriptive data analysis to summarize key statistics and metrics related to drug-related crimes. 
 - Frequencies, location trends, and drug types involved.
-- Trend Identification: Identify and document temporal trends in drug-related crimes, such as seasonal variations or long-term increases or decreases, using time-series analysis.
+- Trend Identification: Identify and document temporal trends in drug-related crimes, such as seasonal variations or long-term increases or decreases, using time-series 
+  analysis.
 - Location Analysis: Conduct location-based analysis to pinpoint geographical hotspots of drug-related criminal activities, supporting focused law enforcement efforts.
-- Data Visualization: Develop clear and intuitive data visualizations, such a chart, graphs, using  Excel to present analytical findings for easy interpretation by stakeholders.
+- Data Visualization: Develop clear and intuitive data visualizations, such a chart, graphs, using  Excel to present analytical findings for easy interpretation by 
+  stakeholders.
 
 This will help the Non-Governmental Organization to the address criminal activities and the substance abuse issues.
 
@@ -61,8 +64,8 @@ With this information, I can make more informed decisions about which Youtubers 
 
 - What data is needed to achieve our objective?
 
-Data Description
-Data Description
+## Data Description
+
 - Incident_ID: A unique identifier for each incident.
 - Crime_Type: The type of crime committed in the incident (e.g., Theft, Vandalism, Assault).
 - Crime_Location: The location where the crime took place (e.g., Urban, Downtown, Rural).
@@ -113,7 +116,7 @@ To understand what it should contain, we need to figure out what questions we ne
 -	Be user-friendly and easy to filter/sort
 -	Use the most recent data possible
 
-#  Slicer 
+# Slicer 
 - Crime Details
 - Police Activity
 - Drug types
@@ -122,8 +125,7 @@ To understand what it should contain, we need to figure out what questions we ne
 - Total Incident by income
 
 
-
-## Project Scope
+# Project Scope
 
 | Tool | Purpose | Description |
 | --- | --- | --- |
@@ -203,8 +205,6 @@ Click on Close & Apply then Age Range column is created using the formula and th
 
 
 # Visualization
-
-
 
 ![drug_dashboard](assets/images/drug_dashboard.png)
 
