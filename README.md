@@ -1,7 +1,6 @@
 # Drug Abuse: Exploring the Nexus between substance Abuse and diverse criminal Activities
 
 
-
 ![excel-diagram](assets/images/Excel.png)
 
 # This is a Excel project
