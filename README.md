@@ -1,7 +1,5 @@
 # Drug Abuse: Exploring the Nexus between substance Abuse and diverse criminal Activities
 
-![excel-diagram](assets/images/powerBI_project.png)
-
 
 
 ![Drug pic-diagram](assets/images/Drug_pic.jpg)
@@ -94,6 +92,7 @@ The stages for this project will be;
 - Analysiss 
  
 # Design 
+
 ## Dashboard components required
 What should the dashboard contain based on the requirements provided?
 To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
