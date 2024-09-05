@@ -22,7 +22,7 @@ Excel will be used for this project, by utilizing its built-in features for data
   - [Data Exploration](#data-exploration)
   - [Data Cleaning](#data-cleaning)
   - [Data Transformation](#data-transformation)
-- [Visualization](#visualization)
+-[Visualization](#visualization)
 - [Analysis](#analysis)
   - [Project Insight](#project-insight)
 - [Recommendations](#recommendations)
@@ -93,6 +93,7 @@ The stages for this project will be;
 - Design
 - Development
 - Analysiss 
+
  
 # Design 
 
@@ -201,6 +202,7 @@ else "Above 60")
 
 ```
 Click on Close & Apply then Age Range column is created using the formula and then the visualisation.
+
 
 
 
