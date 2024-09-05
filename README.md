@@ -22,7 +22,6 @@ Excel will be used for this project, by utilizing its built-in features for data
   - [Data Cleaning](#data-cleaning)
   - [Data Transformation](#data-transformation)
 - [Visualization](#visualization)
-  - [DAX Measures](#dax-measures)
 - [Analysis](#analysis)
   - [Project Insight](#project-insight)
 - [Recommendations](#recommendations)
@@ -144,6 +143,7 @@ What’s the general approach in creating this solution from start to finish?
 4.	Data Cleaning, in Excel
 5.	Data Transform in Excel
 7.	Data Analysis: The dataset is explored and analysed
+8.	Pivot Table and Slicer
 4.	Dashboard creation - Data Analysis & Visualization The dataset is visualized in form of dashboard, reports.
 5.	Generate the findings based on the insights
 6.	Write the documentation + commentary and sent to the Non-Governmental Organization.stakeholders.
