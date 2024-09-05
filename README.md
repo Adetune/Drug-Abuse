@@ -44,16 +44,17 @@ Non-Governmental Organization eager to address a critical issue,the escalating c
 - Location Analysis: Conduct location-based analysis to pinpoint geographical hotspots of drug-related criminal activities, supporting focused law enforcement efforts.
 - Data Visualization: Develop clear and intuitive data visualizations, such a chart, graphs, using  Excel to present analytical findings for easy interpretation by stakeholders.
 
-This will help the Non-Governmental Organization to the address a critical issues.
+This will help the Non-Governmental Organization to the address criminal activities and the substance abuse issues.
 
 
 ## User story 
 
-The Non-Governmental Organization, want to use a dashboard that analyses YouTube channel data in the UK. 
+The Non-Governmental Organization want to use a dashboard to address the critical issue, the escalating criminal activities ostensibly linked to substance abuse.
 
-This dashboard should allow me to identify the top performing channels based on metrics like subscriber base and average views. 
+This dashboard should allow me to the address criminal activities and the substance abuse issues
 
 With this information, I can make more informed decisions about which Youtubers are right to collaborate with, and therefore maximize how effective each marketing campaign is.
+
 
 
 # Data source 
@@ -110,10 +111,10 @@ To understand what it should contain, we need to figure out what questions we ne
 
 | Tool | Purpose |
 | --- | --- |
-| Excel | Exploring the data |
-| Excel| Cleaning, and Transformation |
-| Excel | Analysing the data (EDA)|
-| Excel | Visualizing the data via interactive dashboards |
+| Excel | Data Collection: Gather data related to substance abuse and criminal activities from various sources, Organize this data into structured Excel spreadsheets for analysis. |
+| Excel| Cleaning, Transformation and Validation n: Conduct thorough data cleaning procedures with Excel to address issues such as missing values, duplicate entries, and formatting inconsistencies. |
+| Excel |Exploratory Data Analysis (EDA):  Utilize Excel’s built-in statistical functions and tools to perform descriptive data analysis. Calculate key summary statistics, for crime frequencies, drug types, and demographics.|
+| Excel | Visualizing the data via interactive dashboards: based data visualizations, Ensure that reports are structured for easy consumption by decision-makers. |
 | GitHub | Hosting the project documentation and version control |
 
 
@@ -122,16 +123,27 @@ To understand what it should contain, we need to figure out what questions we ne
 ## Pseudocode
 
 What’s the general approach in creating this solution from start to finish?
-1.	Get the data - Data Importation: SunMusic data is imported from its data source into Power BI environment.
+1.	Get the data - Data Importation: Non-Governmental Organization data is imported from its data source into Excel system.
 2.	Explore the data in Excel
-3.	Load the data intoExcel system
+3.	Load the data into Excel system
 4.	Data Cleaning, in Excel
 5.	Data Transform in Excel
 7.	Data Analysis: The dataset is explored and analysed
 4.	Dashboard creation - Data Analysis & Visualization The dataset is visualized in form of dashboard, reports.
 5.	Generate the findings based on the insights
-6.	Write the documentation + commentary and sent to the stakeholders or marketing and advertising department of SunMusic to optimize the insights during campaigns.
+6.	Write the documentation + commentary and sent to the Non-Governmental Organization.stakeholders.
 8.	Publish the data to GitHub Pages
+
+
+STEPS
+Dulipcate dataset to another sheet to keep raw dataset
+Check dataset for duplicates
+Condense age into age brackets
+Removing null values and replacing it with "No Treatment"
+Create a table with the dataset
+Create a Pivot table for data exploration and data visualization
+Create dashboard
+
 
 #  Data Exploration 
 
@@ -150,6 +162,7 @@ The cleaned data should meet the following criteria and constraints:
 - What steps are needed to clean and shape the data into the desired format?
 
 # Data Transformation
+=TEXT([@[Crime_Date]], "dddd") Crime_day exploration
 
 1. Create a custom column for Age range, this can be done using a formular or an expression.
 2. Max - Min ÷ number of ranges (65 - 18  / ÷ 7) = 6.71 approximately  7
