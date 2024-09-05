@@ -4,7 +4,7 @@
 
 
 
-![Drug pic-diagram](assets/images/Drug pic.jpg)
+![Drug pic-diagram](assets/images/Drug_pic.jpg)
 
 
 # This is a Excel project
