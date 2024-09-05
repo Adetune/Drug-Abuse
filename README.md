@@ -95,26 +95,41 @@ The stages for this project will be;
 ## Dashboard components required
 What should the dashboard contain based on the requirements provided?
 To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
-- What are the total listeners streaming platform used?
-- What is the total listeners by acquisition medium?
-- What is the total listeners by Income levels?
-- What are total listeners by location?
-- What is the total listeners by music preferences?
-- What are the total listeners by age range?
-- What is the total competitor by streaming number?
-- What is the total competitor by Genre? 	
-- What are the top 5 of the competitor followers? 
-- What is the total competitor  by Album Sales?
+-	Total incident
+-	Average age of abuser
+-	Trend of crime incident in 2022
+-	Arrested
+-	Not arrested
+-	Percentage Incident by Gender
+-	Total Incident by Age group
+-	Total Incident by Crime
+-	Total Incident by Location
+-	Total Incident by Crime type and Location
+-	Total Incident by Police Activity
+-	Total Incident by Drugs Type and Conviction Record
+-	Total Incidents by Drugs
+-	Total No of Incident by days and location
+-	Be user-friendly and easy to filter/sort
+-	Use the most recent data possible
+
+#  Slicer 
+- Crime Details
+- Police Activity
+- Drug types
+- Income Ranges
+- Pollice Response by Location
+- Total Incident by income
+
 
 
 ## Project Scope
 
-| Tool | Purpose |
-| --- | --- |
-| Excel | Data Collection: Gather data related to substance abuse and criminal activities from various sources, Organize this data into structured Excel spreadsheets for analysis. |
-| Excel| Cleaning, Transformation and Validation n: Conduct thorough data cleaning procedures with Excel to address issues such as missing values, duplicate entries, and formatting inconsistencies. |
-| Excel |Exploratory Data Analysis (EDA):  Utilize Excel’s built-in statistical functions and tools to perform descriptive data analysis. Calculate key summary statistics, for crime frequencies, drug types, and demographics.|
-| Excel | Visualizing the data via interactive dashboards: based data visualizations, Ensure that reports are structured for easy consumption by decision-makers. |
+| Tool | Purpose | Description |
+| --- | --- | --- |
+| Excel | Data Collection | Gather data related to substance abuse and criminal activities from various sources, Organize this data into structured Excel spreadsheets for analysis. |
+| Excel| Cleaning, Transformation and Validation | Conduct thorough data cleaning procedures with Excel to address issues such as missing values, duplicate entries, and formatting inconsistencies. |
+| Excel |Exploratory Data Analysis (EDA) |Utilize Excel’s built-in statistical functions and tools to perform descriptive data analysis. Calculate key summary statistics, for crime frequencies, drug types, and demographics.|
+| Excel | Visualizing the data via interactive dashboards | based data visualizations, Ensure that reports are structured for easy consumption by decision-makers. |
 | GitHub | Hosting the project documentation and version control |
 
 
@@ -182,13 +197,6 @@ else "Above 60")
 
 ```
 Click on Close & Apply then Age Range column is created using the formula and then the visualisation.
-
-Below is a table outlining the constraints on our cleaned dataset:
-
-| Property | Description |
-| --- | --- |
-| Number of Rows | 3000 |
-| Number of Columns | 2 |
 
 
 
