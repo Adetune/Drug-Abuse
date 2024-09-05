@@ -1,12 +1,15 @@
 # Drug Abuse: Exploring the Nexus between substance Abuse and diverse criminal Activities
 
+![excel-diagram](assets/images/powerBI_project.png)
 
-![excel-diagram](assets/images/Excel.png)
+
+![Drug pic-diagram](assets/images/Drug pic.jpg)
+
 
 # This is a Excel project
 Excel will be used for this project, by utilizing its built-in features for data filtering, sorting, and pivot tables to explore trends and relationships within the data. Additionally, Excel's charting capabilities can help visualize patterns and summarize key insights from the dataset.
 
-
+assets/images/Drug pic.jpg
 
 # Table of contents 
 
